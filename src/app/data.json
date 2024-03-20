@@ -1,0 +1,325 @@
+[
+  {
+    "title": "Canvas",
+    "imgHeight": 321,
+    "imgWidth": 1095,
+    "imgUrl": "/canvas.webp",
+    "content": "Canvas is a learning management system.",
+    "largeDescription": "Canvas is a powerful learning management system (LMS) widely used in educational institutions. It provides a user-friendly platform for teachers and students to interact, manage course materials, submit assignments, and engage in collaborative learning. With features like discussion forums, real-time quizzes, and integrated multimedia support, Canvas enhances the overall online learning experience.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://canvas.com",
+    "moreInformationPage": "/canvas",
+    "isPopular": true
+  },
+  {
+    "title": "DegreeWorks",
+    "imgHeight": 100,
+    "imgWidth": 900,
+    "imgUrl": "/degreeworks.png",
+    "content": "DegreeWorks helps students track their academic progress.",
+    "largeDescription": "DegreeWorks is a comprehensive academic advising and degree audit tool designed to assist students in understanding their progress toward graduation. It provides a clear visual representation of completed and remaining course requirements, empowering students to make informed decisions about their academic journey. With DegreeWorks, students and advisors can collaboratively plan coursework to ensure timely graduation.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://degreeworks.com",
+    "moreInformationPage": "/degreeWorks",
+    "isPopular": true
+  },
+  {
+    "title": "Student Gmail",
+    "imgHeight": 500,
+    "imgWidth": 500,
+    "imgUrl": "/studentemail.png",
+    "content": "Student Gmail provides email services for students.",
+    "largeDescription": "Student Gmail offers a secure and reliable email communication platform specifically tailored for students. With features such as a spacious mailbox, seamless integration with other Google services, and robust spam filters, students can effectively manage their communication needs. The intuitive interface and accessibility across devices make Student Gmail a convenient and essential tool for staying connected within the academic community.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://gmail.com",
+    "moreInformationPage": "/studentEmail",
+    "isPopular": true
+  },
+  {
+    "title": "WebSMART",
+    "imgHeight": 200,
+    "imgWidth": 528,
+    "imgUrl": "/websmart.png",
+    "content": "WebSMART is a student information system.",
+    "largeDescription": "WebSMART serves as a comprehensive student information system, facilitating efficient management of student data and administrative processes. From class registration and grading to financial aid tracking, WebSMART streamlines key aspects of academic administration. Its user-friendly interface and robust reporting capabilities empower administrators to make data-driven decisions, contributing to the overall efficiency of educational institutions.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://websmart.com",
+    "moreInformationPage": "/webSmart",
+    "isPopular": true
+  },
+  {
+    "title": "WebSchedule",
+    "imgHeight": 100,
+    "imgWidth": 564,
+    "imgUrl": "/webschedule.png",
+    "content": "WebSchedule helps students plan their class schedules.",
+    "largeDescription": "WebSchedule simplifies the class scheduling process for students by providing a user-friendly interface to browse and select courses. With features such as schedule optimization and conflict resolution, students can create personalized schedules that align with their academic and personal commitments. WebSchedule enhances the overall student experience by making the registration process seamless and efficient.",
+    "canSignIn": false,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://webschedule.com",
+    "moreInformationPage": "/webSchedule",
+    "isPopular": true
+  },
+  {
+    "title": "Student Success Link",
+    "imgHeight": 100,
+    "imgWidth": 300,
+    "imgUrl": "/SSL.png",
+    "content": "Student Success Link supports student success initiatives.",
+    "largeDescription": "Student Success Link is a holistic platform designed to support student success initiatives within educational institutions. From academic support resources to career guidance, the platform offers a centralized hub for students to access the tools and information they need to thrive. Student Success Link fosters a collaborative approach among students, faculty, and staff to create a supportive and enriching academic environment.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://successlink.com",
+    "moreInformationPage": "/studentSL",
+    "isPopular": true
+  },
+  {
+    "title": "My Majors",
+    "imgHeight": 100,
+    "imgWidth": 500,
+    "imgUrl": "/csmMM.png",
+    "content": "My Majors helps students explore and choose academic majors.",
+    "largeDescription": "My Majors is a valuable resource for students navigating the complexities of choosing an academic major. Through comprehensive assessments, career exploration tools, and personalized guidance, My Majors assists students in making informed decisions about their educational and professional paths. The platform aims to empower students to align their passions and skills with meaningful and fulfilling academic pursuits.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://mymajors.com",
+    "moreInformationPage": "/myMajors",
+    "isPopular": false
+  },
+  {
+    "title": "Office 365",
+    "imgHeight": 100,
+    "imgWidth": 800,
+    "imgUrl": "/office365.png",
+    "content": "Office 365 provides productivity tools and services.",
+    "largeDescription": "Office 365 is a comprehensive suite of productivity tools that empowers students and educators with collaborative solutions. From document creation and sharing to communication and project management, Office 365 enhances the efficiency of academic and administrative tasks. With cloud-based accessibility, students can seamlessly collaborate on projects, fostering a digital ecosystem that supports learning and collaboration.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://office365.com",
+    "moreInformationPage": "/office365",
+    "isPopular": true
+  },
+  {
+    "title": "Zoom",
+    "imgHeight": 100,
+    "imgWidth": 300,
+    "imgUrl": "/zoom.png",
+    "content": "Zoom is a video conferencing and collaboration platform.",
+    "largeDescription": "Zoom is a leading video conferencing and collaboration platform that has become an integral part of modern education. From virtual classrooms to remote meetings, Zoom offers a seamless and user-friendly solution for connecting people across distances. With features like screen sharing, breakout rooms, and interactive whiteboards, Zoom facilitates engaging and interactive online collaboration.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://zoom.com",
+    "moreInformationPage": "/zoom",
+    "isPopular": true
+  },
+  {
+    "title": "Virtual Campus",
+    "imgHeight": 100,
+    "imgWidth": 300,
+    "imgUrl": "/virtualcampus.png",
+    "content": "Virtual Campus provides online learning resources.",
+    "largeDescription": "Virtual Campus is a dynamic online learning environment that extends educational resources beyond the physical campus. It hosts a diverse range of multimedia content, interactive simulations, and virtual labs to enhance the learning experience. Virtual Campus fosters a sense of community through virtual events and collaborative projects, creating an engaging and inclusive learning environment for students in the digital era.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://virtualcampus.com",
+    "moreInformationPage": "/virtualCampus",
+    "isPopular": false
+  },
+  {
+    "title": "Accudemia",
+    "imgHeight": 100,
+    "imgWidth": 800,
+    "imgUrl": "/accudemia.png",
+    "content": "Accudemia is a platform for academic support and tutoring.",
+    "largeDescription": "Accudemia is a comprehensive platform dedicated to academic support and tutoring services. It connects students with qualified tutors, provides scheduling tools for appointments, and tracks academic progress. Through personalized support plans and collaborative learning opportunities, Accudemia contributes to the academic success of students by offering tailored assistance in challenging subjects.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://accudemia.com",
+    "moreInformationPage": "/accudemia",
+    "isPopular": false
+  },
+  {
+    "title": "Library Pass Comics Plus",
+    "imgHeight": 100,
+    "imgWidth": 500,
+    "imgUrl": "/one.png",
+    "content": "Library Pass Comics Plus offers access to digital comics in the library.",
+    "largeDescription": "Library Pass Comics Plus is a digital library that provides students with access to a vast collection of digital comics. From graphic novels to classic comic book series, the platform offers an immersive and entertaining reading experience. Library Pass Comics Plus aims to promote literacy and creativity by making diverse and engaging content accessible to students through the convenience of a digital platform.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://librarypass.com",
+    "moreInformationPage": "/libraryPass",
+    "isPopular": false
+  },
+  {
+    "title": "OneSearch",
+    "imgHeight": 100,
+    "imgWidth": 600,
+    "imgUrl": "/onesearch.png",
+    "content": "OneSearch is a unified search tool for academic resources.",
+    "largeDescription": "OneSearch revolutionizes the research process by providing a unified search tool for academic resources. It aggregates content from various databases, libraries, and online sources, offering students a streamlined and efficient way to discover relevant scholarly material. OneSearch simplifies the search experience, allowing students to access a wealth of academic resources with ease and precision.",
+    "canSignIn": false,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://onesearch.com",
+    "moreInformationPage": "/oneSearch",
+    "isPopular": false
+  },
+  {
+    "title": "RaveMobile",
+    "imgHeight": 100,
+    "imgWidth": 600,
+    "imgUrl": "/rave.png",
+    "content": "RaveMobile is a safety and emergency notification system.",
+    "largeDescription": "RaveMobile is a crucial component of campus safety, providing a comprehensive emergency notification system. From instant alerts to real-time updates, RaveMobile ensures that students and faculty are informed and prepared in case of emergencies. By leveraging cutting-edge communication technology, RaveMobile contributes to creating a secure and resilient campus environment.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://ravemobile.com",
+    "moreInformationPage": "",
+    "isPopular": false
+  },
+  {
+    "title": "Panopto",
+    "imgHeight": 229,
+    "imgWidth": 229,
+    "imgUrl": "/panopto.png",
+    "content": "Panopto is a video platform for recording and sharing lectures.",
+    "largeDescription": "Panopto revolutionizes the lecture experience by offering a robust video platform for recording, storing, and sharing academic content. From lectures and presentations to interactive multimedia, Panopto provides a versatile solution for educators to create engaging and accessible learning materials. The platform enhances the overall educational experience by making course content available anytime, anywhere.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://panopto.com",
+    "moreInformationPage": "",
+    "isPopular": false
+  },
+  {
+    "title": "Splashtop",
+    "imgHeight": 100,
+    "imgWidth": 500,
+    "imgUrl": "/splash.png",
+    "content": "Splashtop provides remote access and support solutions.",
+    "largeDescription": "Splashtop is a leading provider of remote access and support solutions, offering students and faculty secure and efficient access to their devices from anywhere. With features like screen sharing, file transfer, and remote desktop control, Splashtop enhances collaboration and support in academic settings. The platform ensures seamless connectivity, contributing to a flexible and dynamic learning environment.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://splashtop.com",
+    "moreInformationPage": "",
+    "isPopular": false
+  },
+  {
+    "title": "TimelyMD",
+    "imgHeight": 100,
+    "imgWidth": 500,
+    "imgUrl": "/one.png",
+    "content": "TimelyMD offers telehealth services for students.",
+    "largeDescription": "TimelyMD is a pioneering telehealth platform designed to meet the unique healthcare needs of students. From virtual medical consultations to mental health support, TimelyMD offers convenient and accessible healthcare services. By leveraging technology, TimelyMD contributes to the overall well-being of students, ensuring they have timely access to healthcare resources and support.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://timelymd.com",
+    "moreInformationPage": "/timelyMD",
+    "isPopular": false
+  },
+  {
+    "title": "Vision Resource Center",
+    "imgHeight": 100,
+    "imgWidth": 400,
+    "imgUrl": "/VRC.png",
+    "content": "Vision Resource Center provides educational resources and training.",
+    "largeDescription": "Vision Resource Center is a comprehensive platform that provides educators and students with access to a rich array of educational resources and training. From professional development courses to instructional materials, the platform aims to empower educators to excel in their roles. By fostering a culture of continuous learning, Vision Resource Center contributes to the enhancement of teaching and learning experiences.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://visionresource.com",
+    "moreInformationPage": "/VRC",
+    "isPopular": false
+  },
+  {
+    "title": "WEPA",
+    "imgHeight": 100,
+    "imgWidth": 300,
+    "imgUrl": "/wepa.png",
+    "content": "WEPA is a cloud-based printing solution for students.",
+    "largeDescription": "WEPA transforms the traditional printing experience for students by offering a cloud-based printing solution. With features like mobile printing, document release stations, and secure printing options, WEPA enhances the convenience and accessibility of printing services on campus. The platform aims to streamline the printing process while promoting sustainability through efficient use of resources.",
+    "canSignIn": true,
+    "relatedSoftware": [
+      1,
+      2,
+      3
+    ],
+    "signInUrl": "https://wepa.com",
+    "moreInformationPage": "/wepa",
+    "isPopular": false
+  }
+]
